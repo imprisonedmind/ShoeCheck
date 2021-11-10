@@ -1,11 +1,11 @@
 import "./App.css"
 import React, {useState, Component} from 'react';
-import DataSorting from "./comps/shoes/dataSorting";
+import Home from './comps/home.js'
 
 class App extends Component {
   render(){
   return (
-   <DataSorting></DataSorting>
+    <Home></Home>
   )}
 }
 

@@ -1,8 +1,8 @@
 import React, { Component, useState } from "react";
 import Styles from "../../scss/shoes.module.scss";
 import ShoeDetail from "./ShoeDetail.js";
-import ShoeData from "../../shoedata/fgdata.json";
-import FGLogo from "../../Icons/fg.jpg";
+import ShoeData from "../../../shoedata/fgdata.json";
+import FGLogo from "../../../Icons/Flogo.png";
 import NLogo from "../../Icons/tag.png";
 import TLogo from "../../Icons/Tekkie.png";
 import MLogo from "../../Icons/MLogo.png";
