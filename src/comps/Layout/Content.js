@@ -1,9 +1,10 @@
 import react from "react";
+import ShoeCard from "../ShoeCard";
 
 function Content() {
     return(
-        <div class="w-2/3 h-full">
-            <h1>not side bar</h1>
+        <div class="h-full w-3/4 overflow-y-scroll">
+            <ShoeCard></ShoeCard>
         </div>
     )
 }
