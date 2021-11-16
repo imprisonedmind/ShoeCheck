@@ -12,14 +12,13 @@ urls =[
         ]
 # # selenium get 
 driver = webdriver.Chrome()
-driver.implicitly_wait(200)
 
 
 for url in urls:
     driver.get(url)
     # urls = ["https://tekkietown.co.za/collections/mens-footwear?page"]
     driver.execute_script('window.scrollBy(0,10000)',"")
-    WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH , '//*[@id="collectionsmens-footwearproducts2750-cotu-_-168352-_-white-17"]/div')) )
+    WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH , '/html/body/div[5]/div/div/div/div/div[2]/div[4]/div[1]/div[375]/div/div[1]/a/img[1]')) )
 
     # soup
     html = driver.page_source
@@ -35,8 +34,8 @@ for url in urls:
     for job in jobs:
         try:
             item = {}
-            item['ShoeBrand'] =job.find('a', class_ ="bc-sf-filter-product-item-title").get_text(strip=True)
-            item['ShoeName'] = job.find('p', class_ ="bc-sf-filter-product-item-vendor").get_text(strip=True)
+            item['ShoeName'] =job.find('a', class_ ="bc-sf-filter-product-item-title").get_text(strip=True)
+            item['ShoeBrand'] = job.find('p', class_ ="bc-sf-filter-product-item-vendor").get_text(strip=True)
             item['ShoePrice'] = job.find('span', class_ ="bc-sf-filter-product-item-regular-price").get_text().replace("R ", "").replace(",", "")
             item['ShoeImg'] = job.find('img', class_ ='bc-sf-filter-product-item-main-image').get('src')
             item['ShoeLink'] = "http://tekkietown.co.za" + job.find('a', class_ ="bc-sf-filter-product-item-image-link", href=True).get('href')
@@ -47,7 +46,7 @@ for url in urls:
             continue
 
     # open json file and write the dump
-    with open("./shoecheck/src/shoedata/FGdata.json", "a") as writeJSON:
+    with open("./src/shoedata/data.json", "w") as writeJSON:
         json.dump(data, writeJSON, ensure_ascii=False, indent=4)
 
     driver.close()

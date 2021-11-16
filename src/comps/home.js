@@ -1,14 +1,70 @@
-import react from "react";
-import SideBar from "./Layout/SideBar";
-import Content from "./Layout/Content";
+import { useState, useEffect } from "react";
+import SideBar from "./SideBar";
+import ShoeCard from "./ShoeCard";
+import ShoeData from "../shoedata/data.json";
 
 function Home() {
-    return(
-        <div class="bg-black h-screen flex flex-nowrap"> 
-            <SideBar></SideBar>
-            <Content></Content>
-        </div>
-    )
+  //Randomize array
+  function rando() {
+    setRandoData(ShoeData.sort((a, b) => 0.5 - Math.random()));
+  }
+  // Handle Search
+  const [randoData, setRandoData] = useState([]);
+  const [dataArray, setDataArray] = useState(ShoeData);
+  const [searchTerm, setSearchTerm] = useState("");
+  const [searchResults, setSearchResults] = useState(ShoeData);
+  const handleSearch = (event) => {
+    setSearchTerm(event.target.value);
+  };
+  function setResults() {
+    const results = randoData.filter(
+      (data) =>
+        data.ShoeName.toString().toLowerCase().includes(searchTerm) ||
+        data.ShoeBrand.toString().toLowerCase().includes(searchTerm)
+    );
+    setSearchResults(results);
+    setDataArray(results);
+  }
+  // Handle Price sorting
+  const stringToNum = (s) => s * 1;
+  const identity = (x) => x;
+  const compHighToLow = (key, f = identity) => (m, n) => {
+      if (f(n[key]) > f(m[key])) return 1;
+      if (f(n[key]) < f(m[key])) return -1;
+      return 0;
+    };
+  function SortByHighest() {
+    setSearchResults(setSearchResults);
+    const SortByHighest = searchResults.sort(
+      compHighToLow("ShoePrice", stringToNum)
+    );
+    setDataArray(SortByHighest);
+    console.log("button pressed", SortByHighest);
+  }
+
+  useEffect(() => {
+    rando();
+    if (searchTerm === "") {
+      setSearchResults(ShoeData);
+      setDataArray(ShoeData);
+      console.log("EMPTY");
+    } else {
+      setResults();
+      console.log("Filtered");
+    }
+  }, [searchTerm]);
+
+  return (
+    <div className="bg-black h-screen flex flex-nowrap">
+      <SideBar
+        SortByHighest={SortByHighest}
+        handleSearch={handleSearch}
+      ></SideBar>
+      <div className="w-3/4 h-full overflow-y-scroll">
+        <ShoeCard dataArray={dataArray}></ShoeCard>
+      </div>
+    </div>
+  );
 }
 
-export default Home
+export default Home;
