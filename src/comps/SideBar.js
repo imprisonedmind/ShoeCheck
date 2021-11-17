@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/react';
 
-function SideBar({ handleSearch, searchTerm, SortByHighest }) {
+function SideBar({ handleSearch, searchTerm, SortByHighest, SortByLowest }) {
   return (
     // Side Bar Components
     <div className="bg-gray-900 flex flex-wrap justify-evenly h-full w-1/4 min-w-xs p-5 ">
@@ -20,13 +20,14 @@ function SideBar({ handleSearch, searchTerm, SortByHighest }) {
           <div 
             onClick={SortByHighest}
             className="bg-gray-700 h-14 w-14 my-auto rounded-2xl cursor-pointer">
-            <Icon icon="ic:baseline-filter-1" className="h-full w-full p-3 text-blue-500 hover:text-red-500" />
+              <Icon icon="ic:baseline-filter-9" className="h-full w-full p-3 text-blue-500" />
+            
           </div>
           <div
-            onClick={SortByHighest}
+            onClick={SortByLowest}
             className="bg-gray-700 h-14 w-14 my-auto rounded-2xl cursor-pointer"
           >
-                      <Icon icon="ic:baseline-filter-9" className="h-full w-full p-3 text-blue-500" />
+          <Icon icon="ic:baseline-filter-1" className="h-full w-full p-3 text-blue-500 hover:text-red-500" />
           </div>
 
           <div
