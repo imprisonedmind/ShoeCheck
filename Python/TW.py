@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+from webdriver_manager.chrome import ChromeDriverManager
 import requests
 import simplejson as json   
 # urls
@@ -11,7 +12,7 @@ urls =[
         "https://tekkietown.co.za/collections/mens-footwear",
         ]
 # # selenium get 
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(ChromeDriverManager().install())
 
 
 for url in urls:
@@ -24,8 +25,12 @@ for url in urls:
     html = driver.page_source
     soup = BeautifulSoup(html, "html.parser")
 
+    f=open("./src/shoedata/data.json", "r" ) 
+    data = json.load(f)
+    print(type(data))
+
     # Set data to array
-    data = []
+    # data = []
 
     # Search for main Element in HTML
     jobs = soup.find_all('div', class_ ='bc-sf-filter-product-item')

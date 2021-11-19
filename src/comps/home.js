@@ -54,7 +54,7 @@ function Home() {
     setisHighet(!isHighest)
     const SortByHighest = searchResults.sort(compHighToLow("ShoePrice", stringToNum));
     setDataArray(SortByHighest);
-    console.log("Sorted by Highest", isHighest);
+    console.log("Sorted by Highest", SortByHighest);
   }
   // Sort by lowest price Item
   // refference code comment above, this works the same.
@@ -68,26 +68,31 @@ function Home() {
   // The [] sets the dependencies for changes to look for and to rerun on change.
   // i.e. on searchTerm change useEffect will run.
   // On first load we randomise the array
-  useEffect(() => {
-    rando();
-    setResults();
-    if (searchTerm === ('')) {
-      setDataArray(ShoeData)
-    }
-    else if (isHighest === true) {
-      SortByHighest();
-    }
-  }, [searchTerm]);
-  // Listen for isHighest or isLowest change.
-  // OnChange if the these are true then run the method.
-  useEffect(() => {
 
-    if (isHighest === true) {
-      SortByHighest();
-    } else if (isLowest === true) {
-      SortByLowest();
-    }
-  }, [isHighest, isLowest])
+  // useEffect(() => {
+  //   rando();
+  //   setResults();
+  //   if (searchTerm === ('')) {
+  //     setDataArray(ShoeData)
+  //   }
+  //   else if (isHighest === true) {
+  //     SortByHighest();
+  //   }
+  // }, [searchTerm]);
+  // // Listen for isHighest or isLowest change.
+  // // OnChange if the these are true then run the method.
+  // useEffect(() => {
+
+  //   if (isHighest === true) {
+  //     SortByHighest();
+  //   } else if (isLowest === true) {
+  //     SortByLowest();
+  //   }
+  // }, [isHighest, isLowest])
+
+  useEffect(() =>{
+    setResults();
+  },[searchTerm])
 
 
   return (

@@ -342,6 +342,60 @@
         "ShoeProvider": "T"
     },
     {
+        "ShoeName": "Top Mix",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170567_TOPMIX_PINKBLUE_UNISEX_HAVAIANAS_1_large.jpg?v=1637240672",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-mix-_-170567-_-pink",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Mix",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170566_TOPMIX_BLACKWHITE_UNISEX_HAVAIANAS_1_large.jpg?v=1637240555",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-mix-_-170566-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Logomania Print",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170584_TOPLOGOMANIAPRINTED_BLUEMULTI_UNISEX_HAVAIANAS_1_large.jpg?v=1637240935",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-logomania-print-_-170584-_-navy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Logomania Print",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170583_TOPLOGOMANIAPRINTED_BLACKMULTI_UNISEX_HAVAIANAS_1_large.jpg?v=1637240881",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-logomania-print-_-170583-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Aero Graphic",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170579_AEROGRAPHIC_BLUE_UNISEX_HAVAIANAS_1_large.jpg?v=1637240789",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/aero-graphic-_-170579-_-navy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Aero Graphic",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170578_AEROGRAPHIC_BLACKGREY_UNISEX_HAVAIANAS_1_large.jpg?v=1637240731",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/aero-graphic-_-170578-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
         "ShoeName": "Classic Border",
         "ShoeBrand": "Fila",
         "ShoePrice": "649.95",
@@ -707,15 +761,6 @@
         "ShoePrice": "399.95",
         "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169179_OAKHAM_BLACKWHITE_MENS_UMBRO_1_large.jpg?v=1620375136",
         "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/oakham-_-169179-_-black",
-        "ShoeSex": "Male",
-        "ShoeProvider": "T"
-    },
-    {
-        "ShoeName": "Oakham",
-        "ShoeBrand": "Umbro",
-        "ShoePrice": "399.95",
-        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169180_OAKHAM_GREYWHITE_MENS_UMBRO_1_large.jpg?v=1620374199",
-        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/oakham-_-169180-_-grey",
         "ShoeSex": "Male",
         "ShoeProvider": "T"
     },
@@ -3159,6 +3204,42 @@
         "ShoeProvider": "T"
     },
     {
+        "ShoeName": "Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168872-VELLIESDMEN_S_1_large.jpg?v=1606819710",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/vellie-_-168872-_-dark-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Eland Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168863-ELANDVELLIEMEN_S_1_large.jpg?v=1605883389",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/eland-vellie-_-168863-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "599.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/160847---ULA-UNISEX-_1_large.jpg?v=1602505469",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-sandal-_-160847-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Smash V2 Buck",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168527-SMASHV2BUCKWOMEN_S_1_large.jpg?v=1602604846",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/smash-v2-buck-_-168527-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
         "ShoeName": "Basket Sl",
         "ShoeBrand": "Puma",
         "ShoePrice": "799.95",
@@ -3227,6 +3308,3390 @@
         "ShoePrice": "799.95",
         "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168527-SMASHV2BUCKWOMEN_S_1_large.jpg?v=1602604846",
         "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/smash-v2-buck-_-168527-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Basket Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168038_BASKETSL_BLACKRED_MENS_PUMA_2_large.jpg?v=1605613240",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/basket-sl-_-168038-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Revolution 5",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/167460---REVOLUTION-5-MEN_S-_1_large.jpg?v=1602511875",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/revolution-5-_-167460-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Astron",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "699.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/167802---ASTRON-MEN_S_large.jpg?v=1602499410",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/astron-_-167802-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Up",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "699.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168926_UP_GREYBLUE_MENS_PUMA_2_large.jpg?v=1606915559",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/up-_-168926-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Post Up",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169822_POSTUP_BLACKWHITE_MENS_ADIDAS_1_large.jpg?v=1633608573",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/post-up-_-169822-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Own The Game",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169787_OWNTHEGAME_WHITEBLACK_MENS_ADIDAS_1_large.jpg?v=1632317554",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/own-the-game-_-169787-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Duramo Sl",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/171058_Adidas_DuramoSl_Mens_5_large.jpg?v=1632916204",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/duramo-sl-_-171058-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Advantage Base",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/171059_AdvantageBase_Adidas_Grey_mens_4_large.jpg?v=1633607983",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/advantage-base-_-171059-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Pro N3xt 2021",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169806_PRON3XT2021_BLACKWHITE_MENS_ADIDAS_large.jpg?v=1630778521",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/pro-n3xt-2021-_-169806-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Victori One",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "479.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169660_VICTORISLIDE_BLACKWHITE_UNISEX_NIKE_large.jpg?v=1630781169",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/victori-shower-_-169660-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Excavator Superlite Non Steel",
+        "ShoeBrand": "CAT",
+        "ShoePrice": "2099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170845_EXCAVATORSUPERLITENONSTEEL_BROWN_MENS_CAT_large.jpg?v=1630785009",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/excavator-superlite-non-steel-_-170845-_-honey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Charged Assert 9",
+        "ShoeBrand": "Under Armour",
+        "ShoePrice": "1399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170150_CHARGEDASSERT9_BLACKORANGE_MENS_UNDERARMOUR_large.jpg?v=1630572027",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/charged-assert-9-_-170150-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Supercross 3",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170024_SUPERCROSS3_BROWN_MENS_SALOMON_large.jpg?v=1628674688",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/supercross-3-_-170024-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Supercross 3",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170019_SUPERCROSS3_GREY_MENS_SALOMON2_large.jpg?v=1632913017",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/supercross-3-_-170019-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Madcross",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170021_MADCROSS_GREENBLACK_MENS_SALOMON_large.jpg?v=1628072803",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/madcross-_-170021-_-green",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Alphacross 3",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170025_ALPHACROSS3_GREY_MENS_SALOMON_large.jpg?v=1632912905",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/alphacross-3-_-170025-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Alphacross 3",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170022_ALPHACROSS3_WHITEBLACK_MENS_SALOMON2_large.jpg?v=1632912780",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/alphacross-3-_-170022-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Alphacross 3",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170020_ALPHACROSS3_BLACK_MENS_SALOMON_large.jpg?v=1632912697",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/alphacross-3-_-170020-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Streetcat Sharp Slide Zadp",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170216_STREETCATSHARPSLIDE_BLUE_MENS_PUMA_large.jpg?v=1630683064",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/streetcat-sharp-slide-zadp-_-170216-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Streetcat Pure Slide",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "369.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170215_STREETCATPURESLIDE_BLUE_MENS_PUMA_large.jpg?v=1630786568",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/streetcat-pure-slide-iizadp-_-170215-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Streetcat Magnet Slide",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170219_STREETCATMAGNET_BLACK_MENS_PUMA_large.jpg?v=1630683608",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/streetcat-magnet-tw-slide-zadp-_-170219-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Shuffle",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170411_SHUFFLE_WHITEBLUE_MENS_PUMA_large.jpg?v=1629815144",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/shuffle-_-170411-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Graviton",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170433_GRAVITON_GREYWHITE_MENS_PUMA_large.jpg?v=1629819007",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/graviton-_-170433-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Graviton",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170382_GRAVITON_BLACKWHITE_MENS_PUMA_large.jpg?v=1629204038",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/graviton-_-170382-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "First Flip Power",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "249.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170213_FIRSTFLIPPOWER_BLACKGREEN_MENS_PUMA_large.jpg?v=1629966620",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/first-flip-power-zadp-_-170213-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "First Flip Ii",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "229.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170198_FIRSTFLIP_BLUE_MENS_PUMA_large.jpg?v=1627566277",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/first-flip-ii-zadp-_-170198-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Royal Techque T",
+        "ShoeBrand": "Reebok",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170160_ROYALTECHQUE_WHITEGREY_MENS_REEBOK_large.jpg?v=1630586307",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/royal-techque-t-_-170160-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Royal Glide Rplclp",
+        "ShoeBrand": "Reebok",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170154_ROYALGLIDE_BLACKMULTI_MENS_REEBOK_1_large.png?v=1631537818",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/royal-glide-rplclp-_-170154-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Wear All Day",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169919_WEARALLDAY_BLACKGOLD_MENS_NIKE_1_large.png?v=1631521696",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/wear-all-day-_-169919-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Tiempo Legend 9 Club Fg/mg",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "949.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169933_TIEMPOLEGEND9CLUB_WHITEMULTI_MENS_NIKE_1_large.png?v=1631523044",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/tiempo-legend-9-club-fg-mg-_-169933-_",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Royale 2 Low",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169885_COURTROYALELOW2_BLACKWHITE_MENS_NIKE_large.jpg?v=1629285802",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/royale-2-low-_-169885-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Royale 2 Low",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169889_ROYALE2LOW_WHITERED_MENS_NIKE_large.jpg?v=1628671936",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/royal-2-low-_-169889-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Revolution 5",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169884_REVOLUTION5_BLACKRED_MENS_NIKE_large.jpg?v=1628678721",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/revolution-5-_-169884-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Reax 8 Tr",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169921_REAX8TR_BLACK_MENS_NIKE_large.jpg?v=1627551545",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/reax-8-tr-_-169921-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Juniper Trail",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169897_JUNIPERTRAIL_BLUEGOLD_MENS_NIKE_large.jpg?v=1627550443",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/juniper-trail-_-169897-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Downshifter 11",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169891_DONWSHIFTER11_BLUEWHITE_MENS_NIKE_large.jpg?v=1629370168",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/downshifter-11-_-169891-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Vision Low",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169894_COURTVISIONLOW_BLACK_MENS_NIKE_8_large.png?v=1631517564",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/court-vision-low-_-169894-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Air Max Vg R",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170239_AIRMAXVG-R_WHITEBLUE_MENS_NIKE_large.jpg?v=1630590680",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/air-max-vg-r-_-170239-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "680 v7",
+        "ShoeBrand": "New Balance",
+        "ShoePrice": "1799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170044_680_BLUEWHITE_MENS_NEWBALANCE_large.jpg?v=1629983442",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/nb-680-_-170044-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Geo Trail Pro Low",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170660_GEOTRAILPRO_GREY_MENS_HI-TEC_1_large.png?v=1631182415",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/geo-trail-pro-low-_-170660-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Geo Trail Elite",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170661_GEOELITE-_CHARCOALBLACK_MENS_HI-TEC_large.jpg?v=1631182107",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/geo-trail-elite-_-170661-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Astron",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/Astron_170779_Navy_Mens_large.jpg?v=1635245071",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/astron-_-170779-_-navy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Mix",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170567_TOPMIX_PINKBLUE_UNISEX_HAVAIANAS_1_large.jpg?v=1637240672",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-mix-_-170567-_-pink",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Mix",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170566_TOPMIX_BLACKWHITE_UNISEX_HAVAIANAS_1_large.jpg?v=1637240555",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-mix-_-170566-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Logomania Print",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170584_TOPLOGOMANIAPRINTED_BLUEMULTI_UNISEX_HAVAIANAS_1_large.jpg?v=1637240935",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-logomania-print-_-170584-_-navy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Logomania Print",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170583_TOPLOGOMANIAPRINTED_BLACKMULTI_UNISEX_HAVAIANAS_1_large.jpg?v=1637240881",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-logomania-print-_-170583-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Aero Graphic",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170579_AEROGRAPHIC_BLUE_UNISEX_HAVAIANAS_1_large.jpg?v=1637240789",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/aero-graphic-_-170579-_-navy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Aero Graphic",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170578_AEROGRAPHIC_BLACKGREY_UNISEX_HAVAIANAS_1_large.jpg?v=1637240731",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/aero-graphic-_-170578-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Classic Border",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "649.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170255-CLASSICBORDER2CANVAS_100-10225-FIL_WHITE_RED_NAVY_YELLOW.Side_large.jpg?v=1632128025",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/classic-border-_-170255-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Patriot 12",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "949.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/Patriot12_170005_BlueMens1_large.jpg?v=1632905809",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/patriot-12-_-170005-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Venture 8",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/GelVenture8_170002_BlackMens_large.jpg?v=1632905639",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-venture-8-_-170002-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Sangaku 2",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170008_GELSANGAKU2_BLACKRED_MENS_ASICS_large.jpg?v=1628692644",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-sangaku-2-_-170008-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Grand Court Base",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169815_GRANDCOURTBASE_WHITEGREEN_MENS_ADIDAS_large.jpg?v=1630582205",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/grand-court-base-_-169815-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Galaxy 5",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169535_GALAXY5_BLUE_MENS_ADIDAS_1_large.png?v=1635336628",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/galaxy-5-_-169535-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Duramo Sl",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169814_DURAMOSL_BLACK_MENS_ADIDAS_1_large.jpg?v=1633608272",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/duramo-sl-_-169814-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Breaknet",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169802_BREAKNET_WHITEBLACK_MENS_ADIDAS_7_large.jpg?v=1632317739",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/breaknet-_-169802-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Breaknet",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169785_BREAKNET_BLACKGREY_MENS_ADIDAS_1_large.png?v=1635335009",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/breaknet-_-169785-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Breaknet",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169784_BREAKNET_WHITEBLUE_MENS_ADIDAS_large.jpg?v=1630571069",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/breaknet-_-169784-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Bravada",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169528_BRAVADA_BLACKWHITE_MENS_ADIDAS_large.jpg?v=1629968852",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/bravada-_-169528-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Adilette Aqua",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169939_ADILETTEAQUA_BLUEWHITE_UNISEX_ADIDAS_large.jpg?v=1629879949",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/adilette-aqua-_-169939-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Flash Sweet",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "219.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170540_FLASHSWEET_GREY_WOMENS_HAVAIANAS_large.jpg?v=1627037226",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/flash-sweet-_-170540-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Flash Sweet",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "219.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170539_FLASHSWEET_BLACK_WOMENS_HAVAIANAS_large.jpg?v=1627036632",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/flash-sweet-_-170539-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Brazil",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170538_BRAZIL_BLUE_UNISEX_HAVAIANAS_large.jpg?v=1627035504",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/brazil-_-170538-_-navy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Nrgy Comet",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170345_NRGYCOMET_BLACKPINK_MENS_PUMA_large.jpg?v=1626963532",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/nrgy-comet-_-170345-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Doheny Decon",
+        "ShoeBrand": "Vans",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170248_DOHENYDECON_BLACK_MENS_VANS_large.jpg?v=1626948432",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/doheny-decon-_-170248-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Vision Low",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169896_COURTVISIONLOW_WHITE_MENS_NIKE_large.jpg?v=1626784832",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/court-vision-low-_-169896-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Royal Glide Rplclp",
+        "ShoeBrand": "Reebok",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/163471_ROYALGLIDE_WHITEGUM_MENS_REEBOK_large.jpg?v=1626770389",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/royal-glide-rplclp-_-163471-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Royal Glide Rplclp",
+        "ShoeBrand": "Reebok",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/163470_ROYALGLIDE_BLACKGUM_MENS_REEBOK_large.jpg?v=1626769971",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/royal-glide-rplclp-_-163470-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Okosu",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169786_OKOSU_BLUEWHITE_MENS_ADIDAS_1_large.jpg?v=1632317821",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/okosu-_-169786-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Okosu",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169780_OKOSU_BLACK_MENS_ADIDAS_large.jpg?v=1627555520",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/okosu-_-169780-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "90s Runner",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170543_90SRUNNER_WHITEMULTI_MENS_PUMA_large.jpg?v=1626266819",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/90s-runner-_-170543-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cell Vive",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "1399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170348_CELLVIVE_GREYMULTI_MENS_PUMA_large.jpg?v=1626256636",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cell-vive-_-170348-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ember Trl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "1299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170347_EMBERTRL_BLACKYELLOW_MENS_PUMA_large.jpg?v=1626255407",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ember-trl-_-170347-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Aurora Fg",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170148_AURORA_REDWHITE_MENS_UMBRO_large.jpg?v=1630005045",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/aurora-fg-_-170148-_-red",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "St Runner V2 Nl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170541_STRUNNERV2NL_BLUEWHITE_MENS_PUMA_large.jpg?v=1626273833",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/st-runner-v2-nl-_-170541-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Popcat20",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170032_POPCAT_OLIVE_UNISEX_PUMA_large.jpg?v=1626180645",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/popcat20-_-170032-_-green",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Popcat20",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170031_POPCAT_BLUEWHITE_UNISEX_PUMA_large.jpg?v=1626181577",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/popcat20-_-170031-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Popcat20",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170030_POPCAT_NNAVYWHITE_UNISEX_PUMA_large.jpg?v=1626183185",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/popcat20-_-170030-_-navy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Popcat20",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170029_POPCAT_BLACKWHITE_UNISEX_PUMA_large.jpg?v=1626184549",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/popcat20-_-170029-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Popcat20",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170028_POPCAT_BLACK_UNISEX_PUMA_large.jpg?v=1626187505",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/popcat20-_-170028-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Renew All Star Knit",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "1399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170199_RENEWCHUCKTAYLORALLSTARKNIT_PINKWHITE_UNISEX_CONVERSE_1_large.jpg?v=1631525160",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/renew-all-star-knit-_-170200-_-pink",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Renew All Star Knit",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "1399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170200_RENEWCHUCKTAYLORALLSTARKNIT_PINKWHITE_UNISEX_CONVERSE_1_large.jpg?v=1631525005",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/renew-all-star-knit-_-170199-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Converse Boulevard Faux Leather",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "1299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170243_BOULEVARDFAUXLEATHER_BLACKWHITE_MENS_CONVERSE_6_large.jpg?v=1632743439",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/converse-boulevard-faux-leather-_-170243-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "El Distrito 2.0 Faux Leather",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170220_ELDISTRITO2.0FAUXLEATHER_BLACKGUM_MENS_CONVERSE_large.jpg?v=1629812364",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/el-distrito-2-0-faux-leather-_-170220-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Classic Border Pu",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169465_CLASSICBORDERPU_BLACK_MENS_FILA_large.jpg?v=1622538240",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/classic-border-pu-_-169465-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Leader Vt Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "1299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167993_LEADERVT_BLACKBLUE_MENS_PUMA_large.jpg?v=1621517522",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/leader-vt-sl-_-167993-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Classic Border Pu",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169466_CLASSICBORDERPU_WHITE_MENS_FILA_large.jpg?v=1622539096",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/classic-border-pu-_-169466-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Patriot 12",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "949.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168741_PATRIOT12_BLACKWHITE_MENS_ASICS_large.jpg?v=1622031066",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/patriot-12-_-168741-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Oakham",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169179_OAKHAM_BLACKWHITE_MENS_UMBRO_1_large.jpg?v=1620375136",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/oakham-_-169179-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Leeds",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169181_LEEDS_BLACK_MENS_UMBRO_1_large.jpg?v=1620374098",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/leeds-_-169181-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Leeds",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169182_LEEDS_WHITEGUM_MENS_UMBRO_1_large.jpg?v=1620374010",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/leeds-_-169182-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Walmer",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169183_WALMER_WHITEGUM_MENS_UMBRO_1_large.jpg?v=1620372919",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/walmer-_-169183-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Walmer",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169184_WALMER_BLACKRED_MENS_UMBERO_1_large.jpg?v=1620372536",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/walmer-_-169184-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Selby",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169185_SELBY_BLACK_MENS_UMBRO_1_large.jpg?v=1620372378",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/selby-_-169185-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Selby",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169186_SELBY_WHITEBLUE_MENS_UMBRO_1_large.jpg?v=1620372215",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/selby-_-169186-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Renew All Star Knit",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "1499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/170196_RENEWCHUCKTAYLORALLSTARKNIT_GREENWHITE_UNISEX_CONVERSE_1_large.jpg?v=1631524121",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/renew-all-star-knit-_-170196-_-green",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cs Twisted Summer Mid",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169677_CTASTWISTEDSUMMERMID_BLACKWHITE_MENS_CONVERSE_large.jpg?v=1621331535",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cs-twisted-summer-mid-_-169677-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cs Twisted Varsity Mid",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169675_CTASTWISTEDVARSITYMID_WHITEBLACK_MENS_CONVERSE_1_large.jpg?v=1619181671",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cs-twisted-varsity-mid-_-169675-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cs Twisted Summer Ox",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169674_CTASTWISTEDSUMMEROX_KHAKI_MENS_COONVERSE_1_large.jpg?v=1619181342",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cs-twisted-summer-ox-_-169674-_-green",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cs Twisted Varsity Ox",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169672_CTASTWISTEDVARSITYOX_BLACKWHITE_MENS_CONVERSE_1_large.jpg?v=1619181796",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cs-twisted-varsity-ox-_-169672-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cs Twisted Summer Ox",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169669_CTASTWISTEDSUMMEROX_GREYWHITE_MENS_CONVERSE_1_large.jpg?v=1619181196",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cs-twisted-summer-ox-_-169669-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cs Twisted Varsity Ox",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169667_CTASTWISTEDVARSITYOX_WHITEBLACK_MENS_CONVERSE_1_large.jpg?v=1619181736",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cs-twisted-varsity-ox-_-169667-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cs Twisted Varsity Mid",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169665_CTASTWISTEDVARSITYMID_BLACKWHITE_MENS_1_large.jpg?v=1619181424",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cs-twisted-varsity-mid-_-169665-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ward",
+        "ShoeBrand": "Vans",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/163979_ward_balck-white_mens_vans-_2_large.png?v=1615964831",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ward-_-163979-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Doheny",
+        "ShoeBrand": "Vans",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166281---doheny-men_s-_1_large.png?v=1615964722",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/doheny-_-166281-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Doheny",
+        "ShoeBrand": "Vans",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166279---doheny-men_s-_1_large.png?v=1615964466",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/doheny-_-166279-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "All Star Lo",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/5974-allstarlowmen_s_1_large.png?v=1612984512",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/all-star-lo-_-5974-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Umbro Street Lo",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169295_STREETLO_BLACK_MENS_UMBRO_large.jpg?v=1615199959",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/umbro-street-lo-_-169295-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Umbro Street Lo",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169294_STREETLO_WHITE_MENS_UMBRO_large.jpg?v=1615202117",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/umbro-street-lo-_-169294-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Umbro Street Hi",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169297_STREETHI_BLACK_MENS_UMBRO_large.jpg?v=1615195614",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/umbro-street-hi-_-169297-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Umbro Street Hi",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169296_STREETHI_WHITE_MENS_UMBRO_large.jpg?v=1615198846",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/umbro-street-hi-_-169296-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "GeL-Pulse 11",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168703_GEL-PULSE11_BLUEBLACKORANGE_MENS_ASICS_large.jpg?v=1614090573",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-pulse-11-_-168703-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Essential",
+        "ShoeBrand": "Under Armour",
+        "ShoePrice": "1299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168858_ESSENTIAL_BLUEWHITE_MENS_UNDERARMOUR_large.jpg?v=1620812997",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/essential-_-168858-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Essential",
+        "ShoeBrand": "Under Armour",
+        "ShoePrice": "1299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168857_ESSENTIAL_BLACKWHITE_MENS_UNDERARMOUR_large.jpg?v=1620811588",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/essential-_-168857-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Charged Pursuit 2 Se",
+        "ShoeBrand": "Under Armour",
+        "ShoePrice": "1299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168860_CHARGEDPURSUIT2SE_BLACKORANGE_MENS_UNDERARMOUR_large.jpg?v=1623136063",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/charged-pursuit-2-se-_-168860-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Charged Assert 8",
+        "ShoeBrand": "Under Armour",
+        "ShoePrice": "1499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168859_CHARGEDASSERT8_BLUEWHITE_MENS_UNDERARMOUR_large.jpg?v=1622014382",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/charged-assert-8-_-168859-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "X Raise",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168773_XRAISE_GREYBLACK_MENS_SALOMON_large.jpg?v=1612790570",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/x-raise-_-168773-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Wearallday",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168952_WEARALLDAY_BLACK_MENS_NIKE_large.jpg?v=1619617617",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/wearallday-_-168952-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Victori Slide",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "549.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168399_VICTORIONESLIDE_BLACKWHITE_UNISEX_NIKE_large.jpg?v=1629794815",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/victori-slide-_-168399-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Victori Slide",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "549.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168398_VICTORISLIDE_BLUEWHITE_UNISEX_NIKE_large.jpg?v=1622108104",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/victori-slide-_-168398-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Turino",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169614_TURINO_BLUEWHITE_MENS_PUMA_large.jpg?v=1613483988",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/turino-_-169614-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Turino",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169419_TURINO_WHITEBLACK_MENS_PUMA_large.jpg?v=1613386424",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/turino-_-169419-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Turino",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169418_TURINO_BLACKWHITE_MENS_PUMA_large.jpg?v=1615545723",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/turino-_-169418-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Trail Scout",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168740_TRAILSCOUT_BLACKBLUE_MENS_ASICS_large.jpg?v=1621522100",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/trail-scout-_-168740-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Tiempo Legend 8 Club Mg",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168755_TIEMPOLEGEND7CLUBMG_BLACKBLUE_MENS_NIKE_large.jpg?v=1615544842",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/tiempo-legend-8-club-mg-_-168755-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Taper Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "849.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169164_TAPERSL_BLACKWHITE_MENS_PUMA_large.jpg?v=1620816584",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/taper-sl-_-169164-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "410",
+        "ShoeBrand": "New Balance",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168940_410_GREYWHITE_MENS_NEWBALANCE_large.jpg?v=1614859021",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/t410-_-168940-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Supercross Blast",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168769_SUPERCROSSBLAST_BLACK_MENS_SALOMON_large.jpg?v=1612531500",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/supercross-blast-_-168769-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Supercross Blast",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168766_SUPERCROSSBLAST_BLUEGREY_MENS_SALOMON_large.jpg?v=1612529545",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/supercross-blast-_-168766-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Streetcat Pureslide",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166781_STREETCATPURESLIDE_BLACKBLUE_MENS_PUMA_1_large.jpg?v=1619092479",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/streetcat-pureslide-_-166781-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Streetcat Emboss",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169334_STREETCATEMBOSS_BLACKORANGE_MENS_PUMA_1_large.jpg?v=1619091484",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/streetcat-emboss-_-169334-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Streetcat Emboss",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169331_STREETCATEMBOSS_BLACK_MENS_PUMA_2_large.jpg?v=1619091803",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/streetcat-emboss-_-169331-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Smash V2 Buck",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168546_SMASHV2BUCK_BROWNBLACKWHITE_MENS_PUMA_large.jpg?v=1614161318",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/smash-v2-buck-_-168546-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Runfalcon 2.0 Tr",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168796_RUNFALCON2.0TR_BLACKBLUE_MENS_ADIDAS_large.jpg?v=1614848499",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/runfalcon-2-0-tr-_-168796-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Runfalcon 2.0",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168797_RUNFALCON2.0_VBLACKORANGE_MENS_ADIDAS_large.jpg?v=1614768304",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/runfalcan-2-0-_-168797-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Revolution 5",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168955_REVOLUTION5_GREYWHITE_MENS_NIKE_large.jpg?v=1620718548",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/revolution-5-_-168955-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Revolution 5",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168753_REVOLUTION5_BLACKGREYBROWN_MENS_NIKE_large.jpg?v=1615376800",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/revolution-5-_-168753-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Retro Vulc Sl",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168824_RETROVULCSL_WHITEBLUE_MENS_ADIDAS_large.jpg?v=1617880156",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/retro-vulc-sl-_-168824-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Respin Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "1499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169159_RESPIN_BLACK_MENS_PUMA_large.jpg?v=1618315365",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/respin-sl-_-169159-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Renew Elevate 2",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168973_RENEWELEVATE2_BLACKWHITE_MENS_NIKE_large.jpg?v=1623244931",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/renew-elevate-2-_-168973-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Regent",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169476_REGENT_BLUEWHITE_MENS_UMBRO_large.jpg?v=1617181405",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/regent-_-169476-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Regent",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169475_REGENT_BLACKGUM_MENS_UMBRO_large.jpg?v=1617180695",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/regent-_-169475-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Redhill",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169473_REDHILL_WHITEGUM_MENS_UMBRO_large.jpg?v=1617877101",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/redhill-_-169473-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Redhill",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169472_REDHILL_BROWNWHITE_MENS_UMBRO_large.jpg?v=1617871131",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/redhill-_-169472-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Red Stripe Eva",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "129.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169084_STRIPEEVA_WHITERED_MENS_UMBRO_large.jpg?v=1619622507",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/red-stripe-eva-_-169084-_-red",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Reax 8 Tr",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168971_REAX8TR_BLACKGOLD_MENS_NIKE_large.jpg?v=1621255248",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/reax-8-tr-_-168971-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Reax 8 Tr",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168947_REAX8TR_WHITERED_MENS_NIKE_large.jpg?v=1619606958",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/reax-8-tr-_-168947-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Precision 4",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168750_PRECISION4_BLACKREDGREY_MENS_NIKE_large.jpg?v=1615373910",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/precision-4-_-168750-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Phantom Gt Club Fg/mg",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168752_PHANTOMGTCLUBFG-MG_BLUEGREENSILVER_MENS_NIKE_large.jpg?v=1615212562",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/phantom-gt-club-fg-mg-_-168752-_",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Patriot 12",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "949.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168731_PATRIOT12_BLUEWHITE_MENS_ASICS_large.jpg?v=1618398625",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/patriot-12-_-168731-_-navy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "OwnTheGame",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168822_OWNTHEGAME_BLACKRED_MENS_ADIDAS_large.jpg?v=1613485008",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/own-the-game-_-168822-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Navy Pixel Eva",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "129.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169093_PIXELEVA_BLUEWHITE_MENS_UMBRO_large.jpg?v=1620117043",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/navy-pixel-eva-_-169093-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Moon Star Mid",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169484_MOONSTARMID_BLACKGREY_MENS_HI-TEC_large.jpg?v=1620646162",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/moon-star-mid-_-169484-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Moon Star Low",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169483_MOONSTARLOW_BROWNBLACK_MENS_HI-TEC_large.jpg?v=1620646837",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/moon-star-low-_-169483-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Moon Star Low",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169482_MOONSTARLOW_BLACKWHITE_MENS_HI-TEC_large.jpg?v=1620647721",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/moon-star-low-_-169482-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Mercurial Superfly 8",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168970_MERCURIALSUPERFLY8ACADEMY_BLUEGREEN_MENS_NIKE_large.jpg?v=1622107061",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/mercurial-superfly-8-_-168970-_",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Legend Essential 2",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168974_LEGENDESENTIAL2_BLACKWHITE_MENS_NIKE_large.jpg?v=1623245825",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/legend-essential-2-_-168974-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Kilburn",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/UmbroKILBURN169478MENSa_large.jpg?v=1620136813",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/kilburn-_-169478-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Jolt 3",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168738_JOLT3_BLACKORANGE_MENS_ASICS_large.jpg?v=1621938509",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/jolt-3-_-168738-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ignite Ii",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168993_IGNITEII_BLACK_MENS_HI-TEC_large.jpg?v=1620140726",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ignite-ii-_-168993-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ignite Ii",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168992_IGNITEII_BLUEWHITE_MENS_HI-TEC_large.jpg?v=1620826355",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ignite-ii-_-168992-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Hotaki",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168823_HOTAKI_BLACKRED_MENS_ADIDAS_large.jpg?v=1620134007",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/hotaki-_-168823-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Hoops 2.0",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168817_HOOPS2.0_BLUEGUM_MENS_ADIDAS_large.jpg?v=1617890482",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/hoops-2-0-_-168817-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Hoops 2.0",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168805_HOOPS_WHITEGUM_MENS_ADIDAS_large.jpg?v=1617021476",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/hoops-2-0-_-168805-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gt 800",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "1599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169425_GT-800_BLACKBLUE_MENS_ASICS_large.jpg?v=1612354450",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gt-800-_-169425-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Grey Pixel Eva",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "129.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169094_PIXELEVA_GREYWHITE_MENS_UMBRO_large.jpg?v=1620136158",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/grey-pixel-eva-_-169094-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Venture 8",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168733_GELVENTURE8_BLACKGREYGREEN_MENS_ASICS_large.jpg?v=1614761244",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-venture-8-_-168733-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Sangaku",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "949.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168737_GELSANGAKU_GREYMULTI_MENS_ASICS_large.jpg?v=1622029812",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-sangaku-_-168737-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Galaxar Run",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "1499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168815_GALAXARRUN_BLACKORANGE_MENS_ADIDAS_large.jpg?v=1620647480",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/galaxar-run-_-168815-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "First Flip Split Ii",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "249.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169333_FIRSTFLIPSPLITII_BLACKWHITE_MENS_PUMA_1_large.jpg?v=1619091995",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/first-flip-split-ii-_-169333-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "First Flip Split Ii",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "249.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169330_FIRSTFLIPSPLITII_BLACKORANGE_MENS_PUMA_1_large.jpg?v=1619090320",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/first-flip-split-ii-_-169330-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Duramo Sl",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168816_DURAMOSL_WHITEBLACK_MENS_ADIDAS_large.jpg?v=1618314477",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/duramo-sl-_-168816-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Duramo Sl",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168798_DURAMOSL_BLUEBLACKWHITE_MENS_ADIDAS_large.jpg?v=1614163958",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/duramo-sl-_-168798-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Downshifter 11",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168951_DOWNSHIFTER11_BLACKWHITEBLUE_MENS_NIKE_large.jpg?v=1619603265",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/downshifter-11-_-168951-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Downshifter 10",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168744_DOWNSHIFTER10_BLACKWHITERED_MENS_NIKE_5_large.jpg?v=1611319358",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/downshifter-10-_-168744-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Destroyer",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168936_DESTROYER_BLACKGREY_MENS_HI-TEC_large.jpg?v=1620815501",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/destroyer-_-168936-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Dc Past",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169153_DCPAST_BLACK_MENS_PUMA_large.jpg?v=1615545372",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/dc-past-_-169153-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Vision Low",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168751_COURTVISIONLOW_GREYGUM_MENS_NIKE_large.jpg?v=1615546774",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/court-vision-low-_-168751-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Royale 2 Low",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168954_COURTROYALE2LOW_WHITEBLUE_MENS_NIKE_large.jpg?v=1621323428",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/court-royale-2-low-_-168954-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Royale 2 Low",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168953_COURTROYALE2_BLACK_MENS_NIKE_large.jpg?v=1619611277",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/court-royale-2-low-_-168953-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Core Pth Sl",
+        "ShoeBrand": "Under Armour",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166518_COREPTH_WHITEBLACK_UNISEX_UNDERARMOUR_large.jpg?v=1623143566",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/core-pth-sl-_-166518-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Core Pth Sl",
+        "ShoeBrand": "Under Armour",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166517_COREPTHSL_BLKWHT_MEN_S_2_large.jpg?v=1611303332",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/core-pth-sl-_-166517-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Copa Sense 4 Fxg",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168795_COPASENSE.4FxG_BLACK_MENS_ADIDAS_large.jpg?v=1614850737",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/copa-sense-4-fxg-_-168795-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cell Valiant Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "1599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169152_CELLVALIANT_BLACKRED_MENS_PUMA_large.jpg?v=1625147454",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cell-valiant-sl-_-169152-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Brixton High Top",
+        "ShoeBrand": "Phoenix",
+        "ShoePrice": "350.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169166_BRIXTONHIGHTOP_TAN_MENS_PHOENIX_large.jpg?v=1620817690",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/brixton-high-top-_-169166-_-tan",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Breaza",
+        "ShoeBrand": "New Balance",
+        "ShoePrice": "1699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168939_BREAZA_BLUEWHITE_MENS_NEWBALANCE_large.jpg?v=1620646611",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/breaza-_-168939-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Breaknet",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168818_BREAKNET_GREYBLACK_MENS_ADIDAS_large.jpg?v=1619621207",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/breaknet-_-168818-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Breaknet",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168806_BREAKNET_BLACKWHITE_MENS_ADIDAS_large.jpg?v=1617018799",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/breaknet-_-168806-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Brazil Logo",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "359.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166610_BRAZILLOGO_REDMULTI_UNISEX_HAVAIANAS_large.jpg?v=1630679564",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/brazil-logo-_-166610-_-red",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Brazil Logo",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "359.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/157488_BRAZILLOGO_BLUEWHITE_UNISEX_HAVAIANAS_large.jpg?v=1630678918",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/brazil-logo-_-157488-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Bravada",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169414_BRAVADA_BLUEWHITE_MENS_ADIDAS_large.jpg?v=1620135454",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/bravada-_-169414-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Blue Block Eva",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "129.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169086_BLOCKEVA_BLUEWHITERED_MENS_UMBRO_large.jpg?v=1619786629",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/blue-block-eva-_-169086-_-red",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Black Water Stripe Eva",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "129.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169091_WATERSTRIPEEVA_BLACK_MENS_UMBRO_large.jpg?v=1619788409",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/black-water-stripe-eva-_-169091-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Black Strip Eva",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "129.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169081_STRIPE_BLACKWHITE_MENS_UMBRO_large.jpg?v=1620114809",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/black-strip-eva-_-169081-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Black Block Eva",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "129.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169085_BLACKBLOCKEVA_BLACKWHITEGREY_MENS_UMBRO_large.jpg?v=1619782042",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/black-block-eva-_-169085-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Attack",
+        "ShoeBrand": "Umbro",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169175_ATTACK_BLACKWHITE_MENS_UMBRO_1_large.jpg?v=1613127299",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/attack-fg-_-169175-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Anzarun Lite",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169162_ANZARUNLITE_BLACKBLUEWHITE_MENS_PUMA_large.jpg?v=1624002942",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/anzarun-lite-_-169162-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Alphacross Blast",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168770_ALPHACROSSBLAST_GREENGREY_MENS_SALOMON_large.jpg?v=1612939926",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/alphacross-blast-_-168770-_-green",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Alphacross Blast",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168767_ALPHACROSSBLAST_BLACK_MENS_SALOMON_large.jpg?v=1612279164",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/alphacross-blast-_-168767-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Air Max Sc",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168948_AIRMAXSC_BLACKWHITE_MENS_NIKE_large.jpg?v=1619604569",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/air-max-sc-_-168948-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Air Max Impact 2",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168968_AIRMAXIMPACT2_WHITEGUM_MENS_NIKE_large.jpg?v=1621501580",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/air-max-impact-2-_-168968-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Adilette Aqua Sandal",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168914_ADILETTEAQUA_PINKWHITE_WOMENS_ADIDAS_large.jpg?v=1620134740",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/adilette-aqua-sandal-_-168914-_-pink",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Adilette Aqua Sandal",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168913_ADILETTEAQUA_BLUEWHITE_UNISEX_ADIDAS_large.jpg?v=1612946178",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/adilette-aqua-sandal-_-168913-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "680",
+        "ShoeBrand": "New Balance",
+        "ShoePrice": "1799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168938_680_GREYGREENWHITE_MENS_NEWBALANCE_large.jpg?v=1612794077",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/680-_-168938-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "411",
+        "ShoeBrand": "New Balance",
+        "ShoePrice": "1099.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168943_411_BLUEWHITE_MENS_NEWBALANCE_large.jpg?v=1614947548",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/411-_-168943-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Walk Sport",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169242-GOWALKSPORT-MEN_S_1_large.jpg?v=1606739871",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-walk-sport-_-169242-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Walk Sport",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169241-GOWALKSPORT-MEN_S_1_large.jpg?v=1606739924",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-walk-sport-_-169241-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Run 600",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169239-GORUN600-MEN_S_1_large.jpg?v=1606738393",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-run-600-_-169239-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Run 600",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169238-GORUN600-MEN_S_1_large.jpg?v=1606738665",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-run-600-_-169238-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Run 400",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169237-GORUN400-MEN_S_1_large.jpg?v=1606740925",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-run-400-_-169237-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Run 400",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169236-GORUN400-MEN_S_1_large.jpg?v=1606740989",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-run-400-_-169236-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Run 400",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169235-GORUN400-MEN_S_1_large.jpg?v=1606741055",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-run-400-_-169235-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Run 400",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169234-GORUN400-MEN_S_1_large.jpg?v=1606741123",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-run-400-_-169234-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Run",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169233-GORUN-MEN_S_1_large.jpg?v=1606741219",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-run-_-169233-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Go Flex",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169232-GOFLEX-MEN_S_1_large.jpg?v=1606741351",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/go-flex-_-169232-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Elment",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169231-ELEMENT-MEN_S_1_large.jpg?v=1606741458",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/elment-_-169231-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Elment",
+        "ShoeBrand": "Skechers",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169230-ELEMENT-MEN_S_1_large.jpg?v=1606741526",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/elment-_-169230-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Quantum 90",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169003-GELQUANTUM-MEN_S_1_large.jpg?v=1606476155",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-quantum-90-_-169003-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Lyte Trainer",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169000-LYTETRAINER-MEN_S_1_large.jpg?v=1606475766",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/lyte-trainer-_-169000-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Saga",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168997_GELSAGA_BEIGERED_MENS_ASICS_large.jpg?v=1621931969",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-lyte-iii-_-168997-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "GeL-Quantum 90",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168086-GELQUANTUM90-MEN_S_1_large.jpg?v=1606316700",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-quantum-90-_-168086-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "GeL-Quantum 90",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168087-GEL-QUANTUM90-MEN_S_1_large.jpg?v=1606316534",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-quantum-90-_-168087-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Japan S",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167771-JAPANS-MEN_S_1_large.jpg?v=1606316156",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/japan-s-_-167771-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Star Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168544-COURTSTARMEN_S_1_1_large.jpg?v=1604694248",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/court-star-sl-_-168544-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168874-VELLIESDMEN_S_1_large.jpg?v=1605884705",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/vellie-_-168874-_-olive",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168873-VELLIESDMEN_S_1_large.jpg?v=1605884636",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/vellie-_-168873-_-dark-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168872-VELLIESDMEN_S_1_large.jpg?v=1606819710",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/vellie-_-168872-_-dark-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168870-VELLIESDMEN_S_1_large.jpg?v=1605884395",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/vellie-_-168870-_-scarlet",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Up",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168927_UP_WHITEBLACK_MENS_PUMA_2_large.jpg?v=1606915636",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/up-_-168927-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Up",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168926_UP_GREYBLUE_MENS_PUMA_2_large.jpg?v=1606915559",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/up-_-168926-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Navy",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/162195_TOPNAVY_BLUE_UNISEX_HAVAIANAS_large.jpg?v=1630788664",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-navy-_-162195-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Phantom Gt Academy Dynamic Fit",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169096-PHANTOMGTACADEMY-MEN_S_1_large.jpg?v=1605609243",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/phantom-gt-academy-dynamic-fit-_-169096-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Saga Sou",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/169002-GELSAGESOU-MEN_S_1_large.jpg?v=1605622113",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gelsage-sou-_-169002-_",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Saga",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168998-GELSAGA-MEN_S_1_large.jpg?v=1605690596",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gelsage-_-168998-_",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Saga",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168996-GELSAGA-MEN_S_1_large.jpg?v=1605690211",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gelsage-_-168996-_",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gel Lyte",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168999-GELLYTE-MEN_S_1_large.jpg?v=1605621856",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-lyte-_-168999-_",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Eland Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168865-ELANDVELLIEMEN_S_4_4_large.jpg?v=1605884098",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/eland-vellie-_-168865-_-navy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Eland Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168863-ELANDVELLIEMEN_S_1_large.jpg?v=1605883389",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/eland-vellie-_-168863-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cancun",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168877-CANCUN-MEN_S_1_large.jpg?v=1605689958",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cancun-_-168877-_-green",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cancun",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "400.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/163485-CANCUN_BLACKGREY_MENS_HI-TEC5_large.jpg?v=1606382625",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cancun-_-163485-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cancun",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "400.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/163484_CANCUN_NAVYGREY_MENS_HI-TEC_large.jpg?v=1605689705",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cancun-_-163484-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Basket Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168038_BASKETSL_BLACKRED_MENS_PUMA_2_large.jpg?v=1605613240",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/basket-sl-_-168038-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ward",
+        "ShoeBrand": "Vans",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/164745_WARD_BLACK_MENS_VANS-_2_large.jpg?v=1603291823",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ward-_-164745-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "X-Reveal",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1250.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168296---X-REVEAL-MEN_S-_1_large.jpg?v=1603287842",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/x-reveal-_-168296-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ripper Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168246---RIPPER-MEN_S-_1_large.jpg?v=1603188285",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ripper-sandal-_-168246-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Rebound Layup",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168533-REBOUNDLAYUPLO_1_large.jpg?v=1603196807",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/rebound-layup-_-168533-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Cove Breeze Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168254---COVE-BREEZE-MEN_S-_1_large.jpg?v=1603287731",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/cove-breeze-sandal-_-168254-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Zeta Slide Sandal",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/Untitled9_large.jpg?v=1605708780",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/zeta-slide-sandal-_-168713-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "X-Reveal",
+        "ShoeBrand": "Salomon",
+        "ShoePrice": "1250.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168295---X-REVEAL-MEN_S-_1_large.jpg?v=1602588612",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/x-reveal-_-168295-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ward",
+        "ShoeBrand": "Vans",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168112---WARD-MEN_S-_1_large.jpg?v=1602593073",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ward-hi-_-168112-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ward",
+        "ShoeBrand": "Vans",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/164747_WARD_BLACK-WHITE-GUM_MENS_VANS-_2_large.jpg?v=1602592762",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ward-hi-_-164747-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Ultra Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "450.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166345---ULA-ULTRA-UNISEX_large.jpg?v=1602506020",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-ultra-sandal-_-166345-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168233---ULA-UNISEX-_1_large.jpg?v=1602505667",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-sandal-_-168233-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168231---ULA-UNISEX-_1_large.jpg?v=1602505591",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-sandal-_-168231-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/163486---ULA-UNISEX-_1_large.jpg?v=1602505537",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-sandal-_-163486-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/160847---ULA-UNISEX-_1_large.jpg?v=1602505469",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-sandal-_-160847-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/119150---ULA-UNISEX-_1_large.jpg?v=1602504963",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-sandal-_-119150-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Mule Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168230---ULA-MULE-MEN_S-_1_large.jpg?v=1602506593",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-mule-sandal-_-168230-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Mule Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168227---ULA-MULE-MEN_S-_1_large.jpg?v=1602506222",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-mule-sandal-_-168227-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Mule Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168226---ULA-MULE-MEN_S_large.jpg?v=1602506129",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-mule-sandal-_-168226-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Turino",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168543-TURINOMEN_S_1_large.jpg?v=1602656493",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/turino-_-168543-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Turino",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168542-TURINOMEN_S_1_large.jpg?v=1602656448",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/turino-_-168542-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Logo Mania",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168393-TOPLOGOMANIAMEN_S_1_large.jpg?v=1602498222",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-logo-mania-_-168393-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Logo Mania",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168392-TOPLOGOMANIAMEN_S_1_large.jpg?v=1602497890",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-logo-mania-_-168392-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Top Black Thong",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "219.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/132339-TOPBLACKUNISEX_1_large.jpg?v=1602497842",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/top-black-thong-_-132339-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "The Konstructor",
+        "ShoeBrand": "Phoenix",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167952-THEKONSTRUCTORBOOTMEN_S_1_large.jpg?v=1602583800",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/the-konstructor-boot-_-167952-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Gol",
+        "ShoeBrand": "Phoenix",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167951-THEDOEBUCKBOOTMEN_S_1_large.jpg?v=1602583731",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/the-doebuck-boot-_-167951-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "The Chuck Boot",
+        "ShoeBrand": "Phoenix",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167949---THECHUCKBOOTMEN_S_1_1_large.jpg?v=1602584705",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/the-chuck-boot-_-167949-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "The Arctic Boot",
+        "ShoeBrand": "Phoenix",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167950---THEARTICBOOTMEN_S_1_1_large.jpg?v=1602584665",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/the-artic-boot-_-167950-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Taper Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "849.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168558-TAPERMEN_S_1_large.jpg?v=1602607131",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/taper-sl-_-168558-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Streetcat Embossed Slide",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "349.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168433-STREETCATEMBOSSEDSLIDEMEN_S_1_large.jpg?v=1602605997",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/street-embossed-slide-_-168433-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Street Cat Slide",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "369.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168449-STREETCATTABSLIDEMEN_S_1_large.jpg?v=1602605807",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/street-cat-slide-_-168449-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Streetcat Logo Slide",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "369.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168430-STREETCATLOGOVSLIDEMEN_S_1_large.jpg?v=1602605634",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/streecat-slide-_-168430-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Streetcat Slide",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "369.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168429-STREETCATVSLIDEMEN_S_1_large.jpg?v=1602752554",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/streecat-slide-_-168429-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Stefano Thong Sandal",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168714---STEFANO-THONG-MEN_S-_1_large.jpg?v=1602669711",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/stefano-thong-sandal-_-168714-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Smash V2 Buck",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168527-SMASHV2BUCKWOMEN_S_1_large.jpg?v=1602604846",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/smash-v2-buck-_-168527-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Smash V2 Buck",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166630-SMASHV2BUCKMEN_S_1_large.jpg?v=1602604552",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/smash-v2-buck-_-166630-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Seldan",
+        "ShoeBrand": "Vans",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167745_SELDAN_BLUE-WHITE_MENS_VANS-_1_large.jpg?v=1602592412",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/seldan-_-167745-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Royal Glide",
+        "ShoeBrand": "Reebok",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168340---ROYAL-GLIDE-MEN_S-_1_large.jpg?v=1602513702",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/royal-glide-_-168340-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Roguera",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168194-ROGUERAMEN_S_1_large.jpg?v=1602236544",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/roguera-_-168194-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ripper Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168247---RIPPER-MEN_S-_1_large.jpg?v=1602500121",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ripper-sandal-_-168247-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ripper Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168245---RIPPER-MEN_S-_1_large.jpg?v=1604412511",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ripper-sandal-_-168245-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ripper Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168244---RIPPER-MEN_S-_1_large.jpg?v=1602499993",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ripper-sandal-_-168244-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Revolution 5",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167460---REVOLUTION-5-MEN_S-_1_large.jpg?v=1602511875",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/revolution-5-_-167460-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Rebound Layup Lo Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168532-REBOUNDLAYUPLOMEN_S_1_large.jpg?v=1602604450",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/rebound-layup-lo-sl-_-168532-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Reax 8 Tr Mesh",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168501---REAX-8-TR-MESH-MEN_S-_1_large.jpg?v=1602511795",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/reax-8-tr-mesh-_-168501-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Patriot 12",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168508-PATRIOT12MEN_S_1_large.jpg?v=1602241921",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/patriot-12-_-168508-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Patriot 12",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168507-PATRIOT12MEN_S_1_large.jpg?v=1602241748",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/patriot-12-_-168507-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "680",
+        "ShoeBrand": "New Balance",
+        "ShoePrice": "1599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168272-680MEN_S_1_large.jpg?v=1602583062",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/new-balance-680-_-168272-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "420",
+        "ShoeBrand": "New Balance",
+        "ShoePrice": "800.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168273-420MEN_S_1_large.jpg?v=1602582904",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/new-balance-420-_-168273-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "410",
+        "ShoeBrand": "New Balance",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168276-410MEN_S_1_large.jpg?v=1602582738",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/new-balance-410-_-168276-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Loafer",
+        "ShoeBrand": "Crouch",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/162790_9620MKIC_BROWN_MENS_CROUCH_large.jpg?v=1602849475",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/loafer-_-162790-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Loafer",
+        "ShoeBrand": "Crouch",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/161935_9620MKIB_NAVY_MENS_CROUCH_large.jpg?v=1602849428",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/loafer-_-161935-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Loafer",
+        "ShoeBrand": "Crouch",
+        "ShoePrice": "399.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/ADULTS_large.jpg?v=1602849345",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/loafer-_-161934-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Leonardo Thong Sandal",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168702---LEONARDO-THONG-MEN_S-_1_large.jpg?v=1602669629",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/leonardo-thong-sandal-_-168702-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Leonardo Thong Sandal",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168701---LEONARDO-THONG-MEN_S-_1_large.jpg?v=1602669589",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/leonardo-thong-sandal-_-168701-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Leonardo Thong Sandal",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168700---LEONARDO-THONG-MEN_S-_1_large.jpg?v=1602669231",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/leonardo-thong-sandal-_-168700-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Laceup Boot",
+        "ShoeBrand": "Phoenix",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168110-LACEUPBOOTMEN_S_1_large.jpg?v=1602583527",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/laceup-boot-_-168110-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Brenton Buckle Boot",
+        "ShoeBrand": "Phoenix",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168107-LACEUPBOOTMEN_S_1_large.jpg?v=1602583350",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/laceup-boot-_-168107-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Juniper Trail",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1150.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168663---JUNIPER-TRAIL-MEN_S-20200929T183323Z-001-_1_large.jpg?v=1602510819",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/juniper-trail-_-168663-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Jolt 2",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168511-JOLT2MEN_S_1_large.jpg?v=1602241549",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/jolt-2-_-168511-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Japan S",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168288-JAPANSMEN_S_1_large.jpg?v=1602241243",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/japan-s-_-168288-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Intruder",
+        "ShoeBrand": "CAT",
+        "ShoePrice": "1899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/790-INTRUDERMEN_S_1copy_large.jpg?v=1602493809",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/intruder-_-790-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Intruder",
+        "ShoeBrand": "CAT",
+        "ShoePrice": "1799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168111-BLUEKNIGHTSMEN_S_1_large.jpg?v=1602493717",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/intruder-_-168111-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Suede Softee",
+        "ShoeBrand": "Grasshopper",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/102170-SOFTEESUEDEMEN_S_1_large.jpg?v=1602497009",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/grasshopper-5122-suede-_-102170-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Suede Softee",
+        "ShoeBrand": "Grasshopper",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/102168-SOFTEESUEDEMEN_S_1_large.jpg?v=1602495949",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/grasshopper-5120-suede-_-102168-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Softee",
+        "ShoeBrand": "Grasshopper",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/102165-SOFTEEMEN_S_1_large.jpg?v=1602495398",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/grasshopper-5120-softee-_-102165-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "GeL-Venture 8",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168512-GELVENTURE8MEN_S_1_large.jpg?v=1602240961",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-venture-8-_-168512-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "GeL-Excite 7",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168510-GEL-EXCITE7MEN_S_1_large.jpg?v=1602240136",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-excite-7-_-168510-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "GeL-Excite 7",
+        "ShoeBrand": "Asics",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168502-GEL-EXCITE7MEN_S_1_large.jpg?v=1602239933",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gel-excite-7-_-168502-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Stefano Thong",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168715---STFEANO-THONG-MEN_S-_1_large.jpg?v=1602668909",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/gabriela-thong-sandal-_-168715-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "First Flip",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "200.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168452-FIRSTFLIPIIULTRAMEN_S_1_large.jpg?v=1602603648",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/first-flip-_-168452-_-orange",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "First Flip",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "229.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168438-FIRSTFLIPFLIPNU-TILITYMEN_S_1_large.jpg?v=1602603135",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/first-flip-_-168438-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "First Flip",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "229.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168437-FIRSTFLIPLINEARMEN_S_1_large.jpg?v=1602603069",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/first-flip-_-168437-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "First Flip Split Ii",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "229.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168435-FIRSTFLIPSPLITIIMEN_S_1_large.jpg?v=1602599236",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/first-flip-_-168435-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "First Flip",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/163765-FIRSTFLIPGRAPHICSTRIPEMEN_S_1_large.jpg?v=1602752029",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/first-flip-_-163765-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Easy Vulc",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167866-EASYVULC2.0MEN_S_1_large.jpg?v=1602236037",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/easy-vulc-_-167866-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Downshifter 10",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168662---DOWNSHIFTER10jpg_large.jpg?v=1604393517",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/downshifter-10-_-168662-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Downshifter 10",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168632---DOWNSHIFTER-10-MEN_S-_1_large.jpg?v=1602510288",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/downshifter-10-_-168632-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Doheny",
+        "ShoeBrand": "Vans",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166280---DOHENY-MEN_S-_1_large.jpg?v=1602591649",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/doheny-_-166280-_-burgundy",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Docksider Shoe",
+        "ShoeBrand": "Dakota",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/151590_D916_BROWN_UNISEX_DAKOTAS_1_large.jpg?v=1602753053",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/docksider-shoe-_-151590-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Docksider Shoe",
+        "ShoeBrand": "Dakota",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/151589_D916_TAN_UNISEX_DAKOTAS_1_large.jpg?v=1602753020",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/docksider-shoe-_-151589-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Docksider Shoe",
+        "ShoeBrand": "Dakota",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/151588_D916_BLACK_UNISEX_DAKOTAS_1_large.jpg?v=1602752987",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/docksider-shoe-_-151588-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Docksider Shoe",
+        "ShoeBrand": "Dakota",
+        "ShoePrice": "450.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/126932_A515_BLACK_MENS_DAKOTA_1_large.jpg?v=1602752947",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/docksider-shoe-_-126932-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Dive Cat Slide",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "150.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167454-DIVECATIIMEN_S_1_large.jpg?v=1602751925",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/dive-cat-slide-_-167454-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Deckle Stripe Slides",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168712---DECKLE-STRIPE-SLIDES-MENS_BLACK_FILA_2_large.jpg?v=1605872739",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/deckle-slide-sandal-_-168712-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Deckle Stripe Slides",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "299.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168711---DECKLE-STRIPE-SLIDES-MENS_BLUE_FILA_2_large.jpg?v=1606219463",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/deckle-slide-sandal-_-168711-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Vision Mid",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "1199.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168006---COURT-VISION-MID-MEN_S-_1_large.jpg?v=1602510197",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/court-vision-mid-_-168006-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Vision Low",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "950.00",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168021---COURT-VISION-LOW-MEN_S-_1_large.jpg?v=1602510094",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/court-vision-low-_-168021-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Court Star Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168545-COURTSTARMEN_S_1_large.jpg?v=1602597074",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/court-star-sl-_-168545-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Classic Border",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168677-CLASSICBORDER-MEN_S_1_large.jpg?v=1607067562",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/classic-boarder-_-168677-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Classic Border",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168675-CLASSICBORDER-MEN_S_1_large.jpg?v=1606899520",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/classic-boarder-_-168675-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Classic Border",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168674-CLASSICBORDER-YOUTH_1_large.jpg?v=1619785520",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/classic-boarder-_-168674-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Classic Border",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168673-CLASSICBORDER-MEN_S_1_large.jpg?v=1606743039",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/classic-boarder-_-168673-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Classic Border",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168671---classic-border-men_s-_1_large.png?v=1622537852",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/classic-boarder-_-168671-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Classic Border",
+        "ShoeBrand": "Fila",
+        "ShoePrice": "599.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168669-CLASSICBORDER-MEN_S_1_large.jpg?v=1606899832",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/classic-boarder-_-168669-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Chelsea Boot",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166342---CHELSEA-MEN_S-_1_large.jpg?v=1602499742",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/chelsea-boot-_-166342-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Caflaire",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "899.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168184_CAFLAIRE_BLACKWHITE_MENS_ADIDAS_1_large.jpg?v=1602235383",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/caflaire-_-168184-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Breaknet",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168219-BREAKNETMEN_S_1_large.jpg?v=1602235341",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/breaknet-_-168219-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Breaknet",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "999.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168186-BREAKNETMEN_S_1_large.jpg?v=1602235191",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/breaknet-_-168186-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Brazil Thong",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/132344-BRAZILGREYUNISEX_1_large.jpg?v=1602497712",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/brazil-thong-_-132344-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Brazil Thong",
+        "ShoeBrand": "Havaianas",
+        "ShoePrice": "329.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/132336-BRAZILBLACKUNISX_1_large.jpg?v=1602497218",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/brazil-thong-_-132336-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Bravada",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "799.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168207-BRAVATAMEN_S_1_large.jpg?v=1602235150",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/bravata-_-168207-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Benassi Jdi Sandal",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "449.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/158710---BENASSI-JDI-UNISEX-_1_jpg_large.jpg?v=1602509323",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/benassi-jdi-sandal-_-158710-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Astron",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "699.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167802---ASTRON-MEN_S_large.jpg?v=1602499410",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/astron-_-167802-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "All Star Lo",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/5972_ALLSTAR_BLUEWHITE_MENS_CONVERSE_1_large.jpg?v=1602244532",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/all-star-lo-_-5972-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "All Star Lo",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/5925-ALLSTARLOWMEN_S_1_large.jpg?v=1602244445",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/all-star-lo-_-5925-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "All Star Lo",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/152215_ALLSTAR_BLACK_MENS_CONVERSE_1_large.jpg?v=1602244325",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/all-star-lo-_-152215-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "All Star Hi",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "849.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/6647-ALLSTARHIMEN_S_1_large.jpg?v=1602243840",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/all-star-hi-_-6647-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "All Star Hi",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "849.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/6646-ALLSTARHIMEN_S_1_large.jpg?v=1602243773",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/all-star-hi-_-6646-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "All Star Hi",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "849.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/150132-ALLSTARHIMEN_S_1_large.jpg?v=1602243238",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/all-star-hi-_-150132-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "All Star Hi",
+        "ShoeBrand": "Converse",
+        "ShoePrice": "849.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/101410-ALLSTARHIMEN_S_1_large.jpg?v=1602243040",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/all-star-hi-_-101410-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Adilette Comfort Sandal",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168135-ADILETTECOMFORTUNISEX_1_large.jpg?v=1602234692",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/adilette-comfort-sandal-_-168135-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Adilette Comfort Sandal",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/166238-ADILETTECOMFORTUNISEX_1_large.jpg?v=1602234618",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/adilette-comfort-sandal-_-166238-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Adilette Aqua Sandal",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168138-ADILETTEAQUAWOMEN_S_1_large.jpg?v=1602234525",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/adilette-aqua-sandal-_-168138-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Adilette Aqua Sandal",
+        "ShoeBrand": "Adidas",
+        "ShoePrice": "499.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/167873-ADILETTEAQUAUNISEX_1_large.jpg?v=1602234442",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/adilette-aqua-sandal-_-167873-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "2750 Cotu",
+        "ShoeBrand": "Superga",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168356---2750-COTU-NAVY-WHITE-MEN_S-_1_large.jpg?v=1604311947",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/2750-cotu-_-168356-_-blue",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "2750 Cotu",
+        "ShoeBrand": "Superga",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168354---2750-COTU-SAGE-GREY-MEN_S-_1_1_large.jpg?v=1604311945",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/2750-cotu-_-168354-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "2750 Cotu",
+        "ShoeBrand": "Superga",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168353---2750-COTU-BLACK-MEN_S-_1_large.jpg?v=1604311944",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/2750-cotu-_-168353-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "2750 Cotu",
+        "ShoeBrand": "Superga",
+        "ShoePrice": "749.95",
+        "ShoeImg": "https://cdn.shopify.com/s/files/1/0433/3833/4357/products/168352---2750-COTU-WHITE-MEN_S-_1_large.jpg?v=1604311943",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/2750-cotu-_-168352-_-white",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168872-VELLIESDMEN_S_1_large.jpg?v=1606819710",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/vellie-_-168872-_-dark-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Eland Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168863-ELANDVELLIEMEN_S_1_large.jpg?v=1605883389",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/eland-vellie-_-168863-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "599.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/160847---ULA-UNISEX-_1_large.jpg?v=1602505469",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-sandal-_-160847-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Smash V2 Buck",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168527-SMASHV2BUCKWOMEN_S_1_large.jpg?v=1602604846",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/smash-v2-buck-_-168527-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Basket Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168038_BASKETSL_BLACKRED_MENS_PUMA_2_large.jpg?v=1605613240",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/basket-sl-_-168038-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Revolution 5",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/167460---REVOLUTION-5-MEN_S-_1_large.jpg?v=1602511875",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/revolution-5-_-167460-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Astron",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "699.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/167802---ASTRON-MEN_S_large.jpg?v=1602499410",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/astron-_-167802-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Up",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "699.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168926_UP_GREYBLUE_MENS_PUMA_2_large.jpg?v=1606915559",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/up-_-168926-_-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168872-VELLIESDMEN_S_1_large.jpg?v=1606819710",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/vellie-_-168872-_-dark-grey",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Eland Vellie",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "499.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168863-ELANDVELLIEMEN_S_1_large.jpg?v=1605883389",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/eland-vellie-_-168863-_-brown",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Ula Sandal",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "599.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/160847---ULA-UNISEX-_1_large.jpg?v=1602505469",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/ula-sandal-_-160847-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Smash V2 Buck",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168527-SMASHV2BUCKWOMEN_S_1_large.jpg?v=1602604846",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/smash-v2-buck-_-168527-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Basket Sl",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "799.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168038_BASKETSL_BLACKRED_MENS_PUMA_2_large.jpg?v=1605613240",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/basket-sl-_-168038-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Revolution 5",
+        "ShoeBrand": "Nike",
+        "ShoePrice": "999.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/167460---REVOLUTION-5-MEN_S-_1_large.jpg?v=1602511875",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/revolution-5-_-167460-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Astron",
+        "ShoeBrand": "Hi-Tec",
+        "ShoePrice": "699.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/167802---ASTRON-MEN_S_large.jpg?v=1602499410",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/astron-_-167802-_-black",
+        "ShoeSex": "Male",
+        "ShoeProvider": "T"
+    },
+    {
+        "ShoeName": "Up",
+        "ShoeBrand": "Puma",
+        "ShoePrice": "699.95",
+        "ShoeImg": "//cdn.shopify.com/s/files/1/0433/3833/4357/products/168926_UP_GREYBLUE_MENS_PUMA_2_large.jpg?v=1606915559",
+        "ShoeLink": "http://tekkietown.co.za/collections/mens-footwear/products/up-_-168926-_-grey",
         "ShoeSex": "Male",
         "ShoeProvider": "T"
     }
