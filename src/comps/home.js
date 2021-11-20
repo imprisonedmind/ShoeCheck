@@ -96,13 +96,13 @@ function Home() {
 
 
   return (
-    <div className="bg-black h-screen flex flex-nowrap">
+    <div className="bg-black h-screen w-full flex flex-nowrap">
       <SideBar
         SortByHighest={SortByHighest}
         SortByLowest={SortByLowest}
         handleSearch={handleSearch}
       ></SideBar>
-      <div className="w-3/4 h-full overflow-y-scroll">
+      <div className="w-3/4 h-full flex-grow overflow-y-scroll">
         <Suspense fallback={
           <div className="flex justify-center items-center h-full w-full">
             <div className="loader ease-linear rounded-full border-8 border-t-8 border-gray-200 h-32 w-32"></div>
