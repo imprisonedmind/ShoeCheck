@@ -7,6 +7,22 @@ from selenium.common.exceptions import TimeoutException
 from webdriver_manager.chrome import ChromeDriverManager
 import requests
 import simplejson as json   
+import pyrebase
+
+# Firebase settings
+firebaseConfig={  
+    "apiKey": "AIzaSyBdRJCeVGlpIhgsNxlBWycUPmNL7-SOrog",
+    "authDomain": "shoecheck-3cae6.firebaseapp.com",
+    "databaseURL": "https://shoecheck-3cae6-default-rtdb.europe-west1.firebasedatabase.app",
+    "projectId": "shoecheck-3cae6",
+    "storageBucket": "shoecheck-3cae6.appspot.com",
+    "messagingSenderId": "766369205594",
+    "appId": "1:766369205594:web:1a7532d092267aaf207763",
+    "measurementId": "G-8CV49PCRKX"
+}
+firebase=pyrebase.initialize_app(firebaseConfig)
+db=firebase.database()
+
 # urls
 urls =[
         "https://tekkietown.co.za/collections/mens-footwear",
@@ -50,9 +66,10 @@ for url in urls:
         except:
             continue
 
-    # open json file and write the dump
-    with open("./src/shoedata/data.json", "w") as writeJSON:
-        json.dump(data, writeJSON, ensure_ascii=False, indent=4)
+    db.push(data)
+    # # open json file and write the dump
+    # with open("./src/shoedata/data.json", "w") as writeJSON:
+    #     json.dump(data, writeJSON, ensure_ascii=False, indent=4)
 
     driver.close()
 

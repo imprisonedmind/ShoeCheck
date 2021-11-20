@@ -1,7 +1,8 @@
 import { useState, useEffect, Suspense, lazy } from "react";
 import SideBar from "./SideBar";
 import ShoeData from "../shoedata/data.json";
-import ShoeCard from "./ShoeCard.js";
+// import { db } from '../fire'
+
 const LazyShoeCard = lazy(() => import("./ShoeCard.js"));
 
 function Home() {
@@ -90,9 +91,10 @@ function Home() {
   //   }
   // }, [isHighest, isLowest])
 
-  useEffect(() =>{
+  useEffect(() => {
+    // setDataArray(db);
     setResults();
-  },[searchTerm])
+  }, [searchTerm])
 
 
   return (
