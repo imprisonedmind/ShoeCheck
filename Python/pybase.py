@@ -15,5 +15,9 @@ firebase=pyrebase.initialize_app(firebaseConfig)
 
 db=firebase.database()
 
-#Push Data
-db.push(data)
+data =[]
+datas = {'thing': 'shoeData', 'name': 'luke', 'anotherthing': 'luke' }
+
+db.remove()
+
+db.set(datas)

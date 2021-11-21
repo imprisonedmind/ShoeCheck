@@ -41,12 +41,13 @@ for url in urls:
     html = driver.page_source
     soup = BeautifulSoup(html, "html.parser")
 
-    f=open("./src/shoedata/data.json", "r" ) 
-    data = json.load(f)
-    print(type(data))
+    
+
 
     # Set data to array
-    # data = []
+    data =[]
+
+    db.remove()
 
     # Search for main Element in HTML
     jobs = soup.find_all('div', class_ ='bc-sf-filter-product-item')
@@ -66,10 +67,8 @@ for url in urls:
         except:
             continue
 
-    db.push(data)
-    # # open json file and write the dump
-    # with open("./src/shoedata/data.json", "w") as writeJSON:
-    #     json.dump(data, writeJSON, ensure_ascii=False, indent=4)
+    db.child('shoeData').set(data)
+
 
     driver.close()
 

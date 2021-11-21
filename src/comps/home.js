@@ -1,9 +1,14 @@
 import { useState, useEffect, Suspense, lazy } from "react";
 import SideBar from "./SideBar";
-import ShoeData from "../shoedata/data.json";
-// import { db } from '../fire'
+// import ShoeData from "../shoedata/data.json";
+// import db
+import { getdb, db } from '../fire'
 
+// Lazy load
 const LazyShoeCard = lazy(() => import("./ShoeCard.js"));
+
+
+
 
 function Home() {
   // USESTATE
@@ -11,10 +16,10 @@ function Home() {
   // set dataArray & Search Results both equal to the original JSON data of ShoeData.
   // Set searchTerm equal to the contents of the search field.
   const [randoData, setRandoData] = useState([]);
-  const [dataArray, setDataArray] = useState(ShoeData);
-  const [isHighest, setisHighet] = useState();
-  const [isLowest, setisLowest] = useState();
-  const [searchResults, setSearchResults] = useState(ShoeData);
+  const [dataArray, setDataArray] = useState(db);
+  const [isHighest, setisHighet] = useState(true);
+  const [isLowest, setisLowest] = useState(true);
+  const [searchResults, setSearchResults] = useState(db);
   const [searchTerm, setSearchTerm] = useState("");
   const handleSearch = (event) => {
     setSearchTerm(event.target.value);
@@ -34,18 +39,27 @@ function Home() {
   };
   //Randomize array
   function rando() {
-    setRandoData(ShoeData.sort((a, b) => 0.5 - Math.random()));
+    setRandoData(db.sort((a, b) => 0.5 - Math.random()));
+    console.log('randomise')
   }
   // Filter through the array data and set the new array equal to the data that includes the name and brand.
   // Set the both [] = to the result of the filter
   function setResults() {
-    const results = ShoeData.filter(
+    const results = db.filter(
       (data) =>
         data.ShoeName.toString().toLowerCase().includes(searchTerm) ||
         data.ShoeBrand.toString().toLowerCase().includes(searchTerm)
     );
     setSearchResults(results);
-    setDataArray(results);
+    setDataArray(results)
+    if (isHighest === true) {
+      setDataArray(results);
+    } 
+    if (isLowest === true) {
+      setDataArray(results)
+    }
+    console.log('set search results')
+    
   }
   // Sort by Highest Priced Item
   // When this methods runs set search reults equal to lost stored search results
@@ -53,9 +67,14 @@ function Home() {
   // set Main array data to the sorted data.
   function SortByHighest() {
     setisHighet(!isHighest)
-    const SortByHighest = searchResults.sort(compHighToLow("ShoePrice", stringToNum));
-    setDataArray(SortByHighest);
-    console.log("Sorted by Highest", SortByHighest);
+    if (isHighest === true) {
+      const SortByHighest = searchResults.sort(compHighToLow("ShoePrice", stringToNum));
+      setDataArray(SortByHighest);
+    } else if (isHighest === false) {
+      setDataArray(searchResults)
+    }
+
+    console.log("Sorted by Highest");
   }
   // Sort by lowest price Item
   // refference code comment above, this works the same.
@@ -63,38 +82,31 @@ function Home() {
     setisLowest(!isLowest)
     const SortByLowest = searchResults.sort(compLowtoHigh("ShoePrice", stringToNum));
     setDataArray(SortByLowest);
-    console.log("Sorted By Lowest", isLowest);
+    console.log("Sorted By Lowest");
   }
   // Use effect allows for code to run on component mount
   // The [] sets the dependencies for changes to look for and to rerun on change.
   // i.e. on searchTerm change useEffect will run.
   // On first load we randomise the array
+  const setdb = async () => {
+    const db = await getdb();
+    setDataArray(db);
+    setSearchResults(db);
+    rando();
+  }
 
-  // useEffect(() => {
-  //   rando();
-  //   setResults();
-  //   if (searchTerm === ('')) {
-  //     setDataArray(ShoeData)
-  //   }
-  //   else if (isHighest === true) {
-  //     SortByHighest();
-  //   }
-  // }, [searchTerm]);
-  // // Listen for isHighest or isLowest change.
-  // // OnChange if the these are true then run the method.
-  // useEffect(() => {
-
-  //   if (isHighest === true) {
-  //     SortByHighest();
-  //   } else if (isLowest === true) {
-  //     SortByLowest();
-  //   }
-  // }, [isHighest, isLowest])
+  useEffect(() =>{
+    setdb();
+    console.log('intial set of database')
+  },[])
 
   useEffect(() => {
-    // setDataArray(db);
     setResults();
+    if (searchTerm === ('') ) {
+      rando();
+    }
   }, [searchTerm])
+
 
 
   return (
