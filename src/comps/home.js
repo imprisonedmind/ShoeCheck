@@ -8,17 +8,14 @@ import { getdb, db } from '../fire'
 const LazyShoeCard = lazy(() => import("./ShoeCard.js"));
 
 
-
-
 function Home() {
   // USESTATE
   // Use right hand side const to delcare the left hand side, Use left hand side as final.
   // set dataArray & Search Results both equal to the original JSON data of ShoeData.
   // Set searchTerm equal to the contents of the search field.
   const [randoData, setRandoData] = useState([]);
-  const [dataArray, setDataArray] = useState(db);
-  const [isHighest, setisHighet] = useState(true);
-  const [isLowest, setisLowest] = useState(true);
+  const [isHighest, setIsHighest] = useState(false)
+  const [dataArray, setDataArray] = useState([]);
   const [searchResults, setSearchResults] = useState(db);
   const [searchTerm, setSearchTerm] = useState("");
   const handleSearch = (event) => {
@@ -47,85 +44,63 @@ function Home() {
   function setResults() {
     const results = db.filter(
       (data) =>
-        data.ShoeName.toString().toLowerCase().includes(searchTerm) ||
-        data.ShoeBrand.toString().toLowerCase().includes(searchTerm)
+        data.ShoeName.toString().toLowerCase().includes(searchTerm) || data.ShoeBrand.toString().toLowerCase().includes(searchTerm)
     );
     setSearchResults(results);
     setDataArray(results)
-    if (isHighest === true) {
-      setDataArray(results);
-    } 
-    if (isLowest === true) {
-      setDataArray(results)
-    }
-    console.log('set search results')
-    
-  }
-  // Sort by Highest Priced Item
-  // When this methods runs set search reults equal to lost stored search results
-  // then sort this array by highest to lowest const
-  // set Main array data to the sorted data.
-  function SortByHighest() {
-    setisHighet(!isHighest)
-    if (isHighest === true) {
-      const SortByHighest = searchResults.sort(compHighToLow("ShoePrice", stringToNum));
-      setDataArray(SortByHighest);
-    } else if (isHighest === false) {
-      setDataArray(searchResults)
-    }
+    console.log(searchTerm)
 
-    console.log("Sorted by Highest");
   }
-  // Sort by lowest price Item
-  // refference code comment above, this works the same.
-  function SortByLowest() {
-    setisLowest(!isLowest)
-    const SortByLowest = searchResults.sort(compLowtoHigh("ShoePrice", stringToNum));
-    setDataArray(SortByLowest);
-    console.log("Sorted By Lowest");
+
+  const SortByHighest = () => {
+    let highest = db.sort(compHighToLow("ShoePrice", stringToNum));
+    setDataArray([...highest]);
+    console.log(highest)
   }
-  // Use effect allows for code to run on component mount
-  // The [] sets the dependencies for changes to look for and to rerun on change.
-  // i.e. on searchTerm change useEffect will run.
-  // On first load we randomise the array
+
+  const SortByLowest = () => {
+    let lowest = searchResults.sort(compLowtoHigh("ShoePrice", stringToNum));
+    setDataArray(lowest);
+
+  }
+
+  // Await for firebase to retunr db before setting the dataarray
   const setdb = async () => {
     const db = await getdb();
     setDataArray(db);
-    setSearchResults(db);
-    rando();
+    console.log('intial set of database')
   }
 
-  useEffect(() =>{
+  useEffect(() => {
     setdb();
-    console.log('intial set of database')
-  },[])
+  }, [])
 
   useEffect(() => {
     setResults();
-    if (searchTerm === ('') ) {
+    if (searchTerm === ('')) {
       rando();
     }
   }, [searchTerm])
 
 
-
   return (
     <div className="bg-black h-screen w-full flex flex-nowrap">
       <SideBar
-        SortByHighest={SortByHighest}
-        SortByLowest={SortByLowest}
+        SortByHighest={() => SortByHighest()}
         handleSearch={handleSearch}
+        searchTerm={searchTerm}
       ></SideBar>
+
       <div className="w-3/4 h-full flex-grow overflow-y-scroll">
         <Suspense fallback={
           <div className="flex justify-center items-center h-full w-full">
             <div className="loader ease-linear rounded-full border-8 border-t-8 border-gray-200 h-32 w-32"></div>
           </div>
-        }
-        >
+        }>
           <LazyShoeCard dataArray={dataArray}></LazyShoeCard>
         </Suspense>
       </div>
+
     </div>
   );
 }

@@ -13,19 +13,16 @@ const firebaseConfig = {
 
 };
 
-const app = initializeApp(firebaseConfig);
-
-// Get a reference to the database service
-const database = getDatabase(app);
+initializeApp(firebaseConfig);
 
 export var db = []
 
 export const getdb = async () => {
     const dbRef = ref(getDatabase());
-   return get(child(dbRef, `shoeData`)).then((snapshot) => {
+    return get(child(dbRef, `shoeData`)).then((snapshot) => {
         if (snapshot.exists()) {
             db = snapshot.val();
-            console.log("Get firebase db")
+            console.log("Get firebase db I am running from fire.js")
             return db;
         } else {
             console.log("No data available");
