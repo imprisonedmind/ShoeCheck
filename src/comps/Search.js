@@ -8,7 +8,7 @@ function Search({ handleSearch, searchTerm }) {
             placeholder="Search"
             type="search"
             name="Search"
-            className="bg-gray-700 w-full h-10 rounded-full pl-5  text-white"
+            className=" h-10 w-full pl-5 rounded-full text-white bg-gray-700"
         ></input>
     )
 }

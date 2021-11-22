@@ -1,66 +1,49 @@
 import { useEffect, useState } from 'react';
-import { Icon } from '@iconify/react';
 import Search from './Search.js';
+import Highest from './Buttons/Highest';
+import Lowest from './Buttons/Lowest'
+import Bottom from './SideBar/Bottom';
+import IsMale from './Buttons/IsMale'
 
+function SideBar({ handleSearch, searchTerm, SortByLowest, SortByHighest, SortByMale, rando }) {
+  const [isHighest, setIsHighest] = useState(false)
+  const [isLowest, setIsLowest] = useState(false)
+  const [isMale, setIsMale] = useState(false)
 
-
-function SideBar({ handleSearch, searchTerm, SortByLowest, SortByHighest, }) {
-  const [clickedStyle, setClickedStyle] = useState('border-4 border-red-500')
-  const [isClicked, setIsClicked] = useState(false)
-
-
-  const clicked = () => {
-    setIsClicked(!isClicked)
-    if (isClicked === true) {
-      setClickedStyle('border-4 border-blue-500');
+  useEffect(() => {
+    if (isHighest && !isLowest) {
       SortByHighest();
-    } else if (isClicked === false) {
-      setClickedStyle('border-4 border-red-500');
+      console.log(isHighest)
+    } else if (isLowest && !isHighest) {
+      SortByLowest();
+      console.log(isLowest)
     }
-  }
+  }, [isHighest, isLowest])
 
+  useEffect(() => {
+    if (isMale) {
+      SortByMale();
+    }
+  }, [isMale])
 
 
   return (
     // Side Bar Components
-    <div className="bg-gray-900 flex flex-wrap justify-evenly h-full max-w-xs min-w-200 p-5 ">
+    <div className="grid grid-cols-1 grid-rows-6 gap-7 bg-gray-900 h-full max-w-xs min-w-200 p-5 ">
       {/* Top Box */}
-      <div className="bg-gray-800 flex flex-wrap justify-between h-20 w-full rounded-2xl p-5">
-        {/* Handle Search */}
+      <div className="row-span-1 w-full h-max my-auto text-center rounded-2xl px-5 py-10 bg-gray-800">
         <Search handleSearch={handleSearch} searchTerm={searchTerm}></Search>
-        {/* Filter Search Buttons */}
-
       </div>
       {/* middle box */}
-      <div className="bg-gray-800 h-3/4 w-full rounded-2xl p-7 text-gray-200">
-        <div className="flex flex-wrap justify-evenly h-3/5 w-full ">
-
-          <div onClick={() => clicked()} className={`${clickedStyle} flex bg-gray-700 h-14 w-full my-auto rounded-2xl cursor-pointer`}>
-            <div className="h-full w-1/4 p-4 text-blue-500 hover:text-red-500">
-              <Icon icon="ic:baseline-filter-9" className="h-full w-full" />
-            </div>
-
-            <p className="h-max w-max my-auto">Highest Price</p>
-          </div>
-
-          <div className={`${clickedStyle} flex bg-gray-700 h-14 w-full my-auto rounded-2xl cursor-pointer`}>
-            <div className="h-full w-1/4 p-4 text-blue-500 hover:text-red-500">
-              <Icon icon="ic:baseline-filter-1" className="h-full w-full" />
-            </div>
-
-            <p className="h-max w-max my-auto">Lowest Price</p>
-          </div>
-
-          <div className={`${clickedStyle} flex bg-gray-700 h-14 w-full my-auto rounded-2xl cursor-pointer`}>
-            <div className="h-full w-1/4 p-4 text-blue-500 hover:text-red-500">
-              <Icon icon="ic:baseline-filter-1" className="h-full w-full" />
-            </div>
-
-            <p className="h-max w-max my-auto">Random</p>
-          </div>
-
+      <div className="row-span-2 w-full rounded-2xl p-7 text-gray-200 bg-gray-800 ">
+        <div className="grid grid-col-1 grid-row-2 gap-7 h-auto w-full ">
+          <Highest setIsHighest={setIsHighest} isHighest={isHighest} isLowest={isLowest} isMale={isMale} ></Highest>
+          <Lowest setIsLowest={setIsLowest} isLowest={isLowest} isHighest={isHighest} isMale={isMale} ></Lowest>
+          <IsMale setIsMale={setIsMale} isMale={isMale} isLowest={isLowest} isHighest={isHighest}></IsMale>
         </div>
       </div>
+      {/* bottom box */}
+      <Bottom></Bottom>
     </div>
   );
 }

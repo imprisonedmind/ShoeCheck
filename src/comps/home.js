@@ -13,8 +13,6 @@ function Home() {
   // Use right hand side const to delcare the left hand side, Use left hand side as final.
   // set dataArray & Search Results both equal to the original JSON data of ShoeData.
   // Set searchTerm equal to the contents of the search field.
-  const [randoData, setRandoData] = useState([]);
-  const [isHighest, setIsHighest] = useState(false)
   const [dataArray, setDataArray] = useState([]);
   const [searchResults, setSearchResults] = useState(db);
   const [searchTerm, setSearchTerm] = useState("");
@@ -36,38 +34,49 @@ function Home() {
   };
   //Randomize array
   function rando() {
-    setRandoData(db.sort((a, b) => 0.5 - Math.random()));
+    let random = searchResults.sort((a, b) => 0.5 - Math.random());
+    setDataArray(random)
     console.log('randomise')
   }
   // Filter through the array data and set the new array equal to the data that includes the name and brand.
   // Set the both [] = to the result of the filter
   function setResults() {
-    const results = db.filter(
-      (data) =>
-        data.ShoeName.toString().toLowerCase().includes(searchTerm) || data.ShoeBrand.toString().toLowerCase().includes(searchTerm)
+    setSearchResults(db)
+    const results = db.filter((data) =>
+      data.ShoeName.toString().toLowerCase().includes(searchTerm) || data.ShoeBrand.toString().toLowerCase().includes(searchTerm)
     );
+
     setSearchResults(results);
-    setDataArray(results)
+    setDataArray(results);
     console.log(searchTerm)
 
   }
 
   const SortByHighest = () => {
-    let highest = db.sort(compHighToLow("ShoePrice", stringToNum));
+    let highest = searchResults.sort(compHighToLow("ShoePrice", stringToNum));
     setDataArray([...highest]);
-    console.log(highest)
+    console.log('Sorted by highest')
   }
 
   const SortByLowest = () => {
-    let lowest = searchResults.sort(compLowtoHigh("ShoePrice", stringToNum));
-    setDataArray(lowest);
+    let lowest = dataArray.sort(compLowtoHigh("ShoePrice", stringToNum));
+    setDataArray([...lowest]);
+    console.log('Sorted by Lowest')
+  }
 
+  const SortByMale = () => {
+    const male = dataArray.filter((data) =>
+      data.ShoeSex.toString().includes('Male')
+    );
+    setDataArray([...male])
+    console.log('sorted by male', male)
   }
 
   // Await for firebase to retunr db before setting the dataarray
   const setdb = async () => {
     const db = await getdb();
     setDataArray(db);
+    setSearchResults(db);
     console.log('intial set of database')
   }
 
@@ -77,9 +86,6 @@ function Home() {
 
   useEffect(() => {
     setResults();
-    if (searchTerm === ('')) {
-      rando();
-    }
   }, [searchTerm])
 
 
@@ -87,6 +93,9 @@ function Home() {
     <div className="bg-black h-screen w-full flex flex-nowrap">
       <SideBar
         SortByHighest={() => SortByHighest()}
+        SortByLowest={() => SortByLowest()}
+        SortByMale={() => SortByMale()}
+        rando={() => rando()}
         handleSearch={handleSearch}
         searchTerm={searchTerm}
       ></SideBar>
@@ -101,7 +110,7 @@ function Home() {
         </Suspense>
       </div>
 
-    </div>
+    </div >
   );
 }
 
